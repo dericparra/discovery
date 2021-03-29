@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.css'
-import FullPageExample from './lambda/teste'
+import FullPage from './lambda/FullPage'
 
 function App() {
   return (
     <div>
-      <FullPageExample />
+      <FullPage />
     </div>
   )
 }
