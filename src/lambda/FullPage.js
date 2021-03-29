@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import ReactFullpage from '@fullpage/react-fullpage'
 
 const Fullpage = () => (
-  <ReactFullpage>
+  <ReactFullpage
     scrollingSpeed={1000} /* Options here */
     render={({ state, fullpageApi }) => {
       return (
