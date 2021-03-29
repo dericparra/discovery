@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import FullPageExample from './components/teste'
+import FullPageExample from './lambda/teste'
 
 function App() {
   return (
